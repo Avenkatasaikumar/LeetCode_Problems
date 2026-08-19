@@ -6,10 +6,10 @@ My solutions to LeetCode problems, organized by difficulty. Written in Java.
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 52     |
-| 🟡 Medium  | 31     |
+| 🟢 Easy    | 55     |
+| 🟡 Medium  | 33     |
 | 🔴 Hard    | 1      |
-| **Total**  | **84**  |
+| **Total**  | **89**  |
 
 _Last updated: 2026-08-18_
 
@@ -84,7 +84,10 @@ Each problem folder is named `NNNN-problem-slug` and contains:
 | 2485 | Find the Pivot Integer | 2026-05-13 | [solution](easy/2485-find-the-pivot-integer/Solution.java) |
 | 3110 | Score of a String | 2025-08-05 | [solution](easy/3110-score-of-a-string/Solution.java) |
 | 3931 | Check Adjacent Digit Differences | 2026-05-19 | [solution](easy/3931-check-adjacent-digit-differences/Solution.java) |
-
+| 111 | Minimum Depth of Binary Tree | 2026-08-18|
+| 680 | Valid Palindrome II|2026-08-19|
+| 404 | Sum of Left Leaves |2026-08-18|
+||
 ### 🟡 Medium (31)
 
 | # | Title | Date Solved | Solution |
